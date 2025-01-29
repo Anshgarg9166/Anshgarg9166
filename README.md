@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anshgarg9166" target="blank"><img src="https://img.shields.io/twitter/follow/anshgarg9166?logo=twitter&style=for-the-badge" alt="anshgarg9166" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ianshgarg](www.linkedin.com/in/ianshgarg)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ianshgarg](https://www.linkedin.com/in/ianshgarg)
 
 - 📫 How to reach me **gargansh2712@gmail.com**
 
